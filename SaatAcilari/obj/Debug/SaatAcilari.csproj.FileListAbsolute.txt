@@ -1,0 +1,18 @@
+c:\users\fatih\documents\visual studio 2015\Projects\SaatAcilari\SaatAcilari\bin\Debug\SaatAcilari.exe.config
+c:\users\fatih\documents\visual studio 2015\Projects\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.csprojResolveAssemblyReference.cache
+c:\users\fatih\documents\visual studio 2015\Projects\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.Form1.resources
+c:\users\fatih\documents\visual studio 2015\Projects\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.Properties.Resources.resources
+c:\users\fatih\documents\visual studio 2015\Projects\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.csproj.GenerateResource.Cache
+c:\users\fatih\documents\visual studio 2015\Projects\SaatAcilari\SaatAcilari\bin\Debug\SaatAcilari.exe
+c:\users\fatih\documents\visual studio 2015\Projects\SaatAcilari\SaatAcilari\bin\Debug\SaatAcilari.pdb
+c:\users\fatih\documents\visual studio 2015\Projects\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.exe
+c:\users\fatih\documents\visual studio 2015\Projects\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.pdb
+C:\Users\pc_\Desktop\SaatAcilari\SaatAcilari\bin\Debug\SaatAcilari.exe.config
+C:\Users\pc_\Desktop\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.exe
+C:\Users\pc_\Desktop\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.pdb
+C:\Users\pc_\Desktop\SaatAcilari\SaatAcilari\bin\Debug\SaatAcilari.exe
+C:\Users\pc_\Desktop\SaatAcilari\SaatAcilari\bin\Debug\SaatAcilari.pdb
+C:\Users\pc_\Desktop\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.csprojResolveAssemblyReference.cache
+C:\Users\pc_\Desktop\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.Form1.resources
+C:\Users\pc_\Desktop\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.Properties.Resources.resources
+C:\Users\pc_\Desktop\SaatAcilari\SaatAcilari\obj\Debug\SaatAcilari.csproj.GenerateResource.Cache
